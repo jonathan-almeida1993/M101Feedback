@@ -4,3 +4,6 @@ In their constant endeavor to enhance the Mahindra Leadership Conclave experienc
 CREDITS:
 - UI Designer - Ravindra Katkar
 - Software Developer - Jonathan Almeida
+- Client - Mahindra Group HR
+
+Note: This project is a sample of my work for my potential employer. Please do not use it as your own work. 
