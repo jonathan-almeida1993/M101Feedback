@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<!-- Specify a JDBC datasource for M101 -->
+
+	<!-- for live server starts -->
+
+	<Resource name="jdbc/dbConForM101Feedback" auth="Container" type="javax.sql.DataSource"
+		username="root" password="pass,123"
+		driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/m101feedbackdb"
+		initialSize="3" maxActive="-1" maxIdle="3" maxWait="100000" poolPreparedStatements="true"
+		maxOpenPreparedStatements="10" />
+	<!-- for live server ends -->
+
+
+</Context>
+		
