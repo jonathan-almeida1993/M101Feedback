@@ -2,3 +2,6 @@ special-vendored-path/* linguist-vendored
 jquery.barrating.js linguist-vendored=true
 jquery.serializejson.js linguist-vendored=true
 respond.min.js linguist-vendored=true
+array-0.9.min.js linguist-vendored=true
+html5shiv.min.js linguist-vendored=true
+quetable.js linguist-vendored=true
