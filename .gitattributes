@@ -1,0 +1,4 @@
+special-vendored-path/* linguist-vendored
+jquery.barrating.js linguist-vendored=true
+jquery.serializejson.js linguist-vendored=true
+respond.min.js linguist-vendored=true
